@@ -83,7 +83,7 @@ LLMs should be treated as probabilistic systems that require:
 - Output auditing
 - Context boundary management
 
-The goal is reliable, structured intelligence — not random creativity.
+The goal is reliable, structured intelligence, not random creativity.
 
 ---
 
