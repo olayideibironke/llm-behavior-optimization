@@ -4,7 +4,7 @@
 
 This repository documents practical case studies on Large Language Model (LLM) behavior optimization, structured prompt architecture, output control, and evaluation frameworks.
 
-My focus is not just generating outputs — but shaping, constraining, and evaluating model behavior for reliability, clarity, and task alignment.
+My focus is not just generating outputs, but shaping, constraining, and evaluating model behavior for reliability, clarity, and task alignment.
 
 ---
 
